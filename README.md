@@ -2,7 +2,8 @@
 
 <div align="center">
 <h1>I'm Julia Pepe</h1>
-<h3> 👩🏻‍💻 A Full Stack Developer , 📍 Dublin, Ireland </h3>
+<h3> 👩🏻‍💻 A Full Stack Developer</h3> 
+<h3>📍 Dublin, Ireland </h3>
 </div>
 <div align="start">
 <ul>
