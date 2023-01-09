@@ -9,7 +9,7 @@
 <ul>
 <li>👩🏻‍🎓 I have a degree in Economics.</li>
 <li>💻 I'm a Software Engineer student at Driven Education.</li>
-<li>✍️ I'm currently learning SQL </li>
+<li>✍️ I'm currently learning SQL. </li>
 <li>🍝 Hobbies: cooking, hiking, reading and photography.</li>
 </ul>
   <div align="center">
