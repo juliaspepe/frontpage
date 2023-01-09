@@ -12,10 +12,6 @@
 <li>✍️ I'm currently learning SQL. </li>
 <li>🍝 Hobbies: cooking, hiking, reading and photography.</li>
 </ul>
-  <div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api?username=juliaspepe&count_private=true&show_icons=true%22%22">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaspepe&layout=compact&langs_count=10%22">
-  </div>
  <h4>Connect with me:</h4>
 <a href="mailto:devjuliapepe@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
