@@ -2,14 +2,13 @@
 
 <div align="start">
 <h3>I'm Julia Pepe</h1>
-<h3> 👩🏻‍💻 Full-Stack Developer</h3> 
-<h3>📍 Dublin, Ireland </h3>
 </div>
 <div align="start">
 <ul>
-<li>👩🏻‍🎓 I have a degree in Economics.</li>
 <li>💻 I'm a Software Engineer student at Driven Education.</li>
 <li>✍️ I'm currently learning SQL. </li>
+<li>📍 Dublin, Ireland </li>
+<li>👩🏻‍🎓 I have a degree in Economics.</li>
 <li>🍝 Hobbies: cooking, hiking, reading and photography.</li>
 </ul>
  <h4>Connect with me:</h4>
