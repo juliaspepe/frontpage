@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-<div align="center">
+<div align="start">
 <h1>I'm Julia Pepe</h1>
 <h3> 👩🏻‍💻 Full-Stack Developer</h3> 
 <h3>📍 Dublin, Ireland </h3>
