@@ -7,7 +7,7 @@
 <ul>
 <li>💻 I'm a Software Engineer student at Driven Education.</li>
 <li>✍️ I'm currently learning SQL. </li>
-<li>📍 Dublin, Ireland </li>
+<li>📍 Italian-brazilian living in Dublin, Ireland </li>
 <li>👩🏻‍🎓 I have a degree in Economics.</li>
 <li>🍝 Hobbies: cooking, hiking, reading and photography.</li>
 </ul>
