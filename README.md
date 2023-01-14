@@ -9,7 +9,7 @@
 <li>✍️ Currently learning SQL. </li>
 <li>📍 Dublin, Ireland. </li>
 <li>👩🏻‍🎓 Degree in Economics.</li>
-<li>🍝 Hobbies: cooking, hiking, reading, editing videos and photography.</li>
+<li>🍝 Hobbies: cooking, hiking, reading, programming, editing videos and photography.</li>
 </ul>
  <h4>Connect with me:</h4>
 <a href="mailto:devjuliapepe@gmail.com" target="_blank">
